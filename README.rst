@@ -15,7 +15,7 @@ Usage
 .. code-block::
 
     from django.db import models
-    from multiemailfield import MultiEmailField
+    from multiemailfield.fields import MultiEmailField
 
     class FooModel(models.Model):
 
